@@ -54,4 +54,5 @@ Currently working on a platform designed to connect Togolese students across the
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
 
-](https://www.linkedin.com/in/espoir-adjambo-b950663ba?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+](www.linkedin.com/in/
+espoir-oyenga-adjambo)
